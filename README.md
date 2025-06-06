@@ -19,7 +19,7 @@
   <br>
   <h3>Training</h3>
 
-  <p></p>
+  <p>Since our product would otherwise complicated to operate, we offer hands-on training with our services. Training includes lessons to fly and capture pictures and vidoes with the drones. It also includes learning how to position the drone and capture the best photos, as well as the learning to analize the Coltiview system.</p>
 
 </body>
 </html>
