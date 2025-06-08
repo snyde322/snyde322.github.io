@@ -6,7 +6,7 @@
 <body>
 <h3>Service Overview<h3>
   
-<p>At Coltivare, we turn <u> data into <i> <b> intellegence .</b> </i> Our services provide ease and access to making smarter, better decisions. We will provide a no-hassle installation service along with personalized training. This will allow every farmer to learn the ropes and use our system with minute growing pains.</p>
+<p style= "font-family: verdana;"> At <ins>Coltivare</ins>, we turn <u> data into <i> <b> intellegence .</b> </i> Our services provide ease and access to making smarter, better decisions. We will provide a no-hassle installation service along with personalized training. This will allow every farmer to learn the ropes and use our system with minute growing pains.</p>
   <br>
   <h3> Drone Imaging </h3>
   
@@ -20,6 +20,10 @@
   <h3>Training</h3>
 
   <p>Since our product would otherwise complicated to operate, we offer hands-on training with our services. Training includes lessons to fly and capture pictures and vidoes with the drones. It also includes learning how to position the drone and capture the best photos, as well as the learning to analize the Coltiview system.</p>
+  <br>
+<h3>Support</h3>
+
+<p>After setup, our services do not stop. We will always assist you with whatever questions you may have. As our system updates, we will make sure to keep all customers informed on new features.</p>
 
 </body>
 </html>
