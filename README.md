@@ -42,6 +42,8 @@
 <br>
 <p style="color: green; font-family: Times New Roman; font-size: 16px;">Learn more about smart farming at <a href="https://www.nifa.usda.gov/about-nifa/impacts/using-drones-agriculture-natural-resources" target="_blank">NIFA.gov</a></p>
 <br>
+<P><a href="files/Drone_pdf.pdf" download>Download for even more information</a></P>
+<br>
 <p> <a href="mailto:drew@coltivare.com">Contact Me</a></p>
 <br>
 <p><i>Last Modified: <script>documnent.write(new Date(document.lastModified).toLocaleDateString());</script></i></p>
