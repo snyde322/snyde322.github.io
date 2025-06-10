@@ -1,4 +1,4 @@
-# snyde322.github.io
+<!DOCTYPE html>
 <html>
 <head>
 
@@ -6,24 +6,45 @@
 <body>
 <h3>Service Overview<h3>
   
-<p style= "font-family: verdana;"> At <ins>Coltivare</ins>, we turn <u> data into <i> <b> intellegence .</b> </i> Our services provide ease and access to making smarter, better decisions. We will provide a no-hassle installation service along with personalized training. This will allow every farmer to learn the ropes and use our system with minute growing pains.</p>
+<p style= "color: blue; font-family: Arial; font-size: 14px"> At <ins>Coltivare</ins>, we turn data into <i> <b> intellegence .</b> </i> Our services provide ease and access to making smarter, better decisions. We will provide a no-hassle installation service along with personalized training. This will allow every farmer to learn the ropes and use our system with minute growing pains.</p>
   <br>
+  <h3> Top 3 Benefits of Our System</h3>
+  <ol>
+    <li>Monitor crops and livestock more efficiently</li>
+    <li>Detect problems early before they grow</li>
+    <li>Use real-time data for better decisions</li>
+  </ol>
+    <br>
   <h3> Drone Imaging </h3>
   
   <p>Our services include deploying high-quality drones to your farm. These drones will take pictures and videos of fields and herds. Our services can be scheduled regularly at the same time every year, or they can be used as needed in order to suit every farmer's needs.</p>
   <p>With our drones, farmers can see their land in a new way, and can reduce costs by identifying areas of concern before they become too drastic of a problem.</p>
+ <p><img src="https://www.nifa.usda.gov/sites/default/files/styles/hero_image_small_1024w/public/2023-04/drone%20over%20green%20field%20resized_0.png?itok=II4OxDS2" alt="Drone in Agriculture" width="300"></p>
   <br>
+
   <h3> Installation </h3>
   
   <p> When you choose to receive our premium services, we handle the setup all the way through. We will deliver drone equipment, make sure our Coltview system is running smoothly, and personally ensure that our systems are completely in sync with your land. After all of the setup, tests will be done to make sure that no issues will arise while our system is in place. </p>
+ <h3> Materials Needed:</h3>
+ <ul>
+   <li>Internet access</li>
+   <li>Some time for training</li>
+   <li>Basic knoledge with mobile phone</li>
+ </ul>
   <br>
   <h3>Training</h3>
 
   <p>Since our product would otherwise complicated to operate, we offer hands-on training with our services. Training includes lessons to fly and capture pictures and vidoes with the drones. It also includes learning how to position the drone and capture the best photos, as well as the learning to analize the Coltiview system.</p>
   <br>
 <h3>Support</h3>
-
+<br>
 <p>After setup, our services do not stop. We will always assist you with whatever questions you may have. As our system updates, we will make sure to keep all customers informed on new features.</p>
+<br>
+<p style="color: green; font-family: Times New Roman; font-size: 16px;">Learn more about smart farming at <a href="https://www.nifa.usda.gov/about-nifa/impacts/using-drones-agriculture-natural-resources" target="_blank">NIFA.gov</a></p>
+<br>
+<p> <a href="mailto:drew@coltivare.com">Contact Me</a></p>
+<br>
+<p><i>Last Modified: <script>documnent.write(new Date(document.lastModified).toLocaleDateString());</script></i></p>
 
 </body>
 </html>
