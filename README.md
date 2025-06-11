@@ -47,6 +47,5 @@
 <p> <a href="mailto:drew@coltivare.com">Contact Me</a></p>
 <br>
 <p><i>Last Modified: <script>documnent.write(new Date(document.lastModified).toLocaleDateString());</script></i></p>
-
 </body>
 </html>
