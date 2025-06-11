@@ -46,6 +46,7 @@
 <br>
 <p> <a href="mailto:drew@coltivare.com">Contact Me</a></p>
 <br>
-<p><i>Last Modified: <script>const date =(new Date(document.lastModified);document.getElementById("updated").innerHTML = date;</script></i></p>
+<p> Last updated: </p> <p id= "update"></p>
+<p><i>Last Modified: <script>const date =(new Date(document.lastModified);document.getElementById("update").innerHTML = date;</script></i></p>
 </body>
 </html>
