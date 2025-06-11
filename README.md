@@ -4,12 +4,12 @@
 
 </head>
 <body>
-<h3>Service Overview<h3>
+<h1 style="font-family:helvetica; color:#4682B4";>Service Overview</h1>
   
 <p style= "color: blue; font-family: Arial; font-size: 14px"> At <ins>Coltivare</ins>, we turn data into <i> <b> intellegence .</b> </i> Our services provide ease and access to making smarter, better decisions. We will provide a no-hassle installation service along with personalized training. This will allow every farmer to learn the ropes and use our system with minute growing pains.</p>
   <br>
   <h3> Top 3 Benefits of Our System</h3>
-  <ol>
+  <ol style= "color: #4F7942">
     <li>Monitor crops and livestock more efficiently</li>
     <li>Detect problems early before they grow</li>
     <li>Use real-time data for better decisions</li>
