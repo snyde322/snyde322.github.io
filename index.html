@@ -46,8 +46,13 @@
 <br>
 <p> <a href="mailto:drew@coltivare.com">Contact Me</a></p>
 <br>
-<p>Last modified: <span id="lastModified"></span></p>
+<p>
+  <i>Last Updated: <span id="lastModified"></span></i>
+</p>
 
- <script> document.getElementById("lastModified").textContent = new Date(document.lastModified).toString();</script>
+<script>
+  const lastModifiedDate = new Date(document.lastModified);
+  document.getElementById("lastModified").textContent = lastModifiedDate.toString();
+</script
 </body>
 </html>
