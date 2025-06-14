@@ -49,10 +49,7 @@
 <p>
   <i>Last Updated: <span id="lastModified"></span></i>
 </p>
-
-<script>
-  const lastModifiedDate = new Date(document.lastModified);
-  document.getElementById("lastModified").textContent = lastModifiedDate.toString();
-</script
+<p>Last modified: <span id="lastModified"></span></p>
+ <script> document.getElementById("lastModified").textContent = new Date(document.lastModified).toLocaleString();</script>
 </body>
 </html>
